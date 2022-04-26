@@ -1,0 +1,99 @@
+#hsi
+{
+	width:	20%;
+	margin-bottom: 0px;
+}
+
+#arrow 
+{
+	width: 2%;
+}
+
+body
+{
+	text-decoration: none;
+	padding-left: 60px;
+	padding-right: 60px;
+	background: #f0f0f0
+}
+
+header
+{
+	position: relative;
+	background: #f6f6f6;
+	height: 130px;
+}
+
+header nav
+{
+	position: absolute;
+	top: 20px;
+	right: 300px;
+}
+
+header nav ul li
+{
+	display: inline-block;
+}
+
+header nav ul li a
+{
+	display: block;
+	color: #150485 !important;
+	text-decoration: none;
+	padding: 10px 15px;
+	margin: 0px 10px;
+	margin-bottom: 20px;
+}
+
+h2
+{
+	font: 40px Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #150485;
+}
+
+h3
+{
+	display: block;
+	/*padding-left: 60px;*/
+	font: 30px DejaVu Sans Mono, monospace;
+	color: #150485;
+}
+
+body ul li
+{
+	font: 20px Arial, Helvetica, sans-serif;
+/*	padding-left: 60px;
+	padding-right: 60px;
+*/	text-decoration: none;
+}
+
+footer
+{
+	display: block;
+	background: #150485;
+	color: white;
+	padding: 30px 20px;
+	text-align: center;
+	font: 14px Arial, Helvetica, sans-serif; 
+	margin: 40px 0px;
+}
+
+p
+{
+	display: block;
+/*	padding-left: 60px;
+	padding-right: 60px;*/
+	font: 20px Arial, Helvetica, sans-serif; 
+}
+
+.pres
+{
+	font: 20px Arial, Helvetica, sans-serif;
+}
+
+.accomp
+{
+	font: 20px Arial, Helvetica, sans-serif;
+}
